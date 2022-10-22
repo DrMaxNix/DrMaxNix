@@ -1,8 +1,6 @@
-## Links!
-- 🌎 DrMaxNix website: [www.drmaxnix.de](https://www.drmaxnix.de)
-- 🎮 Clickr game: [clickr.drmaxnix.de](https://clickr.drmaxnix.de)
-- ☁ Skyicon website: [sky.drmaxnix.de](https://sky.drmaxnix.de)
-- 🔍 dns-watch.org (beta): [www.dns-watch.org](https://www.dns-watch.org)
-- 🎲 Würfeln mit Armin: [www.würfelarmin.eu](https://www.würfelarmin.eu)
-- ⌨️ FutharkBoard: [futharkboard.drmaxnix.de](https://futharkboard.drmaxnix.de/)
-- 🎂 Birthday Countdown: [birthdaycountdown.drmaxnix.de](https://birthdaycountdown.drmaxnix.de/)
+<a href="https://github.com/DrMaxNix">
+	<img src="https://github-readme-stats.vercel.app/api?username=DrMaxNix&count_private=true&theme=dark&include_all_commits=true&show_icons=true&cache_seconds=86400&card_width=300" />
+</a><br>
+<a href="https://github.com/DrMaxNix">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrMaxNix&layout=compact&theme=dark&langs_count=6&cache_seconds=86400&card_width=305" />
+</a>
