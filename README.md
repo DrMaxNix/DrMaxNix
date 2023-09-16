@@ -8,6 +8,13 @@ Why I moved away from GitHub, and why you should do so too:
 - GitHub has a lot of paywalled features and is too bloated in my opinion
 - Hosting your code on GitHub's servers bears the risk of them just removing it one day; I like to have my stuff on my own servers
 - [Even more reasons from the Software Freedom Conservancy](https://sfconservancy.org/GiveUpGitHub)
+<hr />
+
+Projects under the _DrMaxNix_ account:
+- **DrMaxNix.de**: [https://drmaxnix.de](https://drmaxnix.de)
+- **Untisbot** ([Source Code](https://git.tjdev.de/DrMaxNix/untisbot))
+- **Birthday Countdown**: [https://birthdaycountdown.drmaxnix.de](https://birthdaycountdown.drmaxnix.de) ([Source Code](https://github.com/DrMaxNix/birthdaycountdown))
+- **FutharkBoard**: [https://futharkboard.drmaxnix.de](https://futharkboard.drmaxnix.de) ([Source Code](https://github.com/DrMaxNix/futharkboard))
 <br />
 
 This account will only be used for forks and mirrors.
