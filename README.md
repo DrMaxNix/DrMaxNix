@@ -12,9 +12,11 @@ Why I moved away from GitHub, and why you should do so too:
 
 Projects under the _DrMaxNix_ account:
 - **DrMaxNix.de**: [https://drmaxnix.de](https://drmaxnix.de)
-- **Untisbot** ([Source Code](https://git.tjdev.de/DrMaxNix/untisbot))
-- **Birthday Countdown**: [https://birthdaycountdown.drmaxnix.de](https://birthdaycountdown.drmaxnix.de) ([Source Code](https://github.com/DrMaxNix/birthdaycountdown))
-- **FutharkBoard**: [https://futharkboard.drmaxnix.de](https://futharkboard.drmaxnix.de) ([Source Code](https://github.com/DrMaxNix/futharkboard))
+- **Birthday Countdown**: [https://birthdaycountdown.drmaxnix.de](https://birthdaycountdown.drmaxnix.de) ([Source Code](https://git.tjdev.de/DrMaxNix/birthdaycountdown))
+- **FutharkBoard**: [https://futharkboard.drmaxnix.de](https://futharkboard.drmaxnix.de) ([Source Code](https://git.tjdev.de/DrMaxNix/futharkboard))
+- **WorkPlace**: https://git.tjdev.de/DrMaxNix/workplace
+- **XYNat**: https://git.tjdev.de/DrMaxNix/xynat
+- **Focusrite Scarlett with PipeWire**: https://git.tjdev.de/DrMaxNix/scarlett-pipewire
 <br />
 
 This account will only be used for forks and mirrors.
